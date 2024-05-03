@@ -8,6 +8,7 @@ Python script that analyzes the records (budget_data.csv) to calculate each of t
  - The changes in "Profit/Losses" over the entire period, and then the average of those changes
  - The greatest increase in profits (date and amount) over the entire period
  - The greatest decrease in profits (date and amount) over the entire period
+After displaying the results, save the results on a file called "financial_analysis.txt" on a directory called "analysis"
 
 # PyPoll
 Python script that analyzes the votes (election_data.csv) and calculates each of the following values:
@@ -16,3 +17,4 @@ Python script that analyzes the votes (election_data.csv) and calculates each of
  - The percentage of votes each candidate won
  - The total number of votes each candidate won
  - The winner of the election based on popular vote
+After displaying the results, save the results on a file called "election_results.txt" on a directory called "analysis"
